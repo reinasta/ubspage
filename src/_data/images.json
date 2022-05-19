@@ -1,0 +1,31 @@
+{
+  "images": [
+    {
+      "title": "Eleven Below",
+      "author": "Brian Lukis",
+      "license": "CC BY-NC 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "localUrl": "../_includes/images/eleven_below.png",
+      "externalUrl": "http://plurib.us/1shot/2007/eleven_below/",
+      "cls": "gallery-image"
+    },
+    {
+      "title": "Clay Cups",
+      "author": "Brian Lukis",
+      "license": "CC BY-NC 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "localUrl": "../_includes/images/clay_cups.png",
+      "externalUrl": "http://plurib.us/1shot/2007/clay_cups/",
+      "cls": "gallery-image"
+    },
+    {
+      "title": "Grapefruit",
+      "author": "Brian Lukis",
+      "license": "CC BY-NC 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "localUrl": "../_includes/images/grapefruit.png",
+      "externalUrl": "http://plurib.us/1shot/2007/grapefruit/",
+      "cls": "gallery-image"
+    }
+  ]
+}
